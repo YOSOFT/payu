@@ -1,0 +1,1 @@
+var pagosRecurrentes = require('./lib/pagosRecurrentes');

@@ -1,0 +1,18 @@
+{
+  "name": "payu-pagos-recurrentes",
+  "version": "0.1.0",
+  "description": "Api pagos recurrrentes",
+  "author": "Julio Ramirez",
+  "contributors": [
+    "Sergio Barbosa"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "node-fetch": "^2.1.2"
+  }
+}
